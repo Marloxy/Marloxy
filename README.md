@@ -1,5 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Daniel. 👋
 
+<p>¡Bienvenido a mi perfil! Desarrollador web de Madrid, España. Explora mi github para ver cómo convierto ideas en soluciones web innovadoras.</p>
+<h3 style="display:flex; align-items:center; gap: 0.5rem;"><svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M7 8l-4 4l4 4" /><path d="M17 8l4 4l-4 4" /><path d="M14 4l-4 16" /></svg>Tecnologías con las que trabajo:</h3>
+<p>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next Js"/>
+<img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
+</p>
 <!--
 **Marloxy/Marloxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
